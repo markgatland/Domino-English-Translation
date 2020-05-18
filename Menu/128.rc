@@ -187,16 +187,16 @@ POPUP "&View"
 			MENUITEM "&Formulas",  33116
 			MENUITEM "&Lyrics",  33118
 			MENUITEM "C&ue Points",  33119
-			MENUITEM "メジャーリンクイベント(&K)",  33316
+			MENUITEM "MeasurLink (&K)",  33316
 			MENUITEM "Te&mpo",  33117
-			MENUITEM "拍子イベント(&I)",  33351
-			MENUITEM "調号イベント(&Y)",  33352
-			MENUITEM "スケールイベント(&S)",  33353
-			MENUITEM "コードイベント(&D)",  33354
-			MENUITEM "マークイベント(&A)",  33355
+			MENUITEM "Time Signature (&I)",  33351
+			MENUITEM "Key Signature (&Y)",  33352
+			MENUITEM "Scale (&S)",  33353
+			MENUITEM "Chord (&D)",  33354
+			MENUITEM "Mark (&A)",  33355
 		}
 		MENUITEM SEPARATOR
-		MENUITEM "項目の幅をリセット(&R)",  33086
+		MENUITEM "Reset Column Width (&R)",  33086
 	}
 	POPUP "Event Graph Pane 1 (&N)"
 	{
@@ -347,7 +347,7 @@ POPUP "Eve&nts"
 	MENUITEM SEPARATOR
 	POPUP "Event List"
 	{
-		MENUITEM "プロパティ(&P)...",  32848
+		MENUITEM "Note Event Properties (&P)...",  32848
 		MENUITEM SEPARATOR
 		MENUITEM "イベントグラフペイン1で表示(&1)",  33308
 		MENUITEM "イベントグラフペイン2で表示(&2)",  33309
